@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main{
+  padding: 10px;
+}
+
+button{
+  padding: 18px;
+  border-radius: 12px;
+background-color: #2f8ac9;
+border: #2f8ac9;
+color: #fff;
+cursor: pointer;
+}
+
+.bottom{
+  margin: 10px;
+}
